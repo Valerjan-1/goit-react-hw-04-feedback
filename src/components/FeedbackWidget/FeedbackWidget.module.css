@@ -1,0 +1,14 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.btn {
+  cursor: pointer;
+}
+.btn_container {
+  display: flex;
+  gap: 15px;
+}
